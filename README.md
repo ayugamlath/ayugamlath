@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi there, I'm [Your Name]!<br><br>I'm a passionate **Software Engineer** and tech enthusiast who loves building web apps, exploring AI/ML, and contributing to open-source projects.<br><br>---<br><br>## 🔧 Technologies & Tools<br><br>- 🌐 Languages: `JavaScript` | `Python` | `Java`<br>- 🧱 Frameworks: `React` | `Node.js` | `Express` | `Spring Boot`<br>- ☁️ Cloud: `AWS` | `Firebase` | `Heroku`<br>- 🛠️ Tools: `Git` | `Docker` | `Postman` | `VS Code`<br><br>---<br><br>## 💡 Fun Fact<br><br>I love solving real-world problems through code and enjoy learning new technologies every day. Let's collaborate and build something amazing together! 🚀<br>
+# 👋 Hi there, I'm A.U.Gamlath!<br><br>I'm a passionate **Software Engineer** and tech enthusiast who loves building web apps, exploring AI/ML, and contributing to open-source projects.<br><br>---<br><br>## 🔧 Technologies & Tools<br><br>- 🌐 Languages: `JavaScript` | `Python` | `Java`<br>- 🧱 Frameworks: `React` | `Node.js` | `Express` | `Spring Boot`<br>- ☁️ Cloud: `AWS` | `Firebase` | `Heroku`<br>- 🛠️ Tools: `Git` | `Docker` | `Postman` | `VS Code`<br><br>---<br><br>## 💡 Fun Fact<br><br>I love solving real-world problems through code and enjoy learning new technologies every day. Let's collaborate and build something amazing together! 🚀<br>
 
 
 ## 🌐 Socials:
